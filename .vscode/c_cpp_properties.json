@@ -7,8 +7,8 @@
             "name": "Mac",
             "macFrameworkPath": [],
             "includePath": [
-                "/Users/daro/Documents/PlatformIO/Projects/Nucleo STM32F446RE/include",
-                "/Users/daro/Documents/PlatformIO/Projects/Nucleo STM32F446RE/src",
+                "/Users/daro/Documents/PlatformIO/Projects/Nucleo-STM32F446RE/include",
+                "/Users/daro/Documents/PlatformIO/Projects/Nucleo-STM32F446RE/src",
                 "/Users/daro/.platformio/packages/framework-stm32cube/f4/Drivers/CMSIS/Include",
                 "/Users/daro/.platformio/packages/framework-stm32cube/f4/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
                 "/Users/daro/.platformio/packages/framework-stm32cube/f4/Drivers/STM32F4xx_HAL_Driver/Inc",
@@ -46,8 +46,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/daro/Documents/PlatformIO/Projects/Nucleo STM32F446RE/include",
-                    "/Users/daro/Documents/PlatformIO/Projects/Nucleo STM32F446RE/src",
+                    "/Users/daro/Documents/PlatformIO/Projects/Nucleo-STM32F446RE/include",
+                    "/Users/daro/Documents/PlatformIO/Projects/Nucleo-STM32F446RE/src",
                     "/Users/daro/.platformio/packages/framework-stm32cube/f4/Drivers/CMSIS/Include",
                     "/Users/daro/.platformio/packages/framework-stm32cube/f4/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
                     "/Users/daro/.platformio/packages/framework-stm32cube/f4/Drivers/STM32F4xx_HAL_Driver/Inc",
